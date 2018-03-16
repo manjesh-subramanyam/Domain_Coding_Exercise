@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Domain_CodingExercise_Project.Classes
+namespace Domain.CodingExercise.Project.Classes
 {
     public class Property
     {

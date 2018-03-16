@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Domain_CodingExercise_Project.Classes;
+using Domain.CodingExercise.Project.Classes;
 
-namespace Domain_CodingExercise_Project.Interfaces
+namespace Domain.CodingExercise.Project.Interfaces
 {
     public interface IPropertyMatcher
     {

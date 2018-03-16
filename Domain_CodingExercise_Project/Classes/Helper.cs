@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Linq;
-using Domain_CodingExercise_Project.Interfaces;
+using Domain.CodingExercise.Project.Interfaces;
 
-namespace Domain_CodingExercise_Project.Classes
+namespace Domain.CodingExercise.Project.Classes
 {
     public class Helper : IPropertyMatcher
     {
